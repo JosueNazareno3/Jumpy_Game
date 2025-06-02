@@ -1,3 +1,7 @@
+# Desarrollado por:
+1. Cevallos Jamileth
+2. Nazareno Josué
+   
 # Jumpy Game 🐝
 
 Un emocionante juego de plataformas vertical donde controlas una abeja que salta automáticamente entre plataformas mientras evita enemigos y recolecta power-ups.
