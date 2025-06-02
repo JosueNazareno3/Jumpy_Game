@@ -3,7 +3,9 @@ Jumpy Game - Un juego de plataformas vertical donde controlas una abeja
 que salta automáticamente entre plataformas mientras evita enemigos y
 recolecta power-ups.
 
-Autor: [Tu nombre]
+Autor: 
+    1. Nazareno Josué
+    2. Cevallos Jamileth
 Versión: 2.0
 Fecha: 2024
 """
